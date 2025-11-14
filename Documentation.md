@@ -1,4 +1,4 @@
-# ML Challenge 2025: Smart Product Pricing Solution Template
+# ML Challenge 2025: Smart Product Pricing Solution Report
 
 **Team Name:** Team Rocket  
 **Team Members:** Akshaya Banoth, Akshitha Kothuru, Akshata Miramir  
